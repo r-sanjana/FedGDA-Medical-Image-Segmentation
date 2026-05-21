@@ -234,7 +234,6 @@ fedgda-medical-image-segmentation/
 │   ├── predictions.png
 │   └── training_curves.png
 │
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
