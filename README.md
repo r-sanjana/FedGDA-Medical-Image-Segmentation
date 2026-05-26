@@ -1,4 +1,4 @@
-# 🏥 FedGDA – Federated Medical Image Segmentation
+# 🏥 FedGDA – Federated Medical Image Segmentation(ongoing)
 
 A research-oriented federated learning framework for multi-organ medical image segmentation using Attention U-Net and FedGDA (Federated Server-Guided Dynamic Alignment).
 
