@@ -202,8 +202,8 @@ Prediction outputs show strong overlap with ground truth masks across multiple C
 
 | Model | Dice Score |
 |---|---|
-| Centralized Attention U-Net | 0.9069 |
-| Federated Learning (Best) | 0.851 |
+| Centralized Attention U-Net | 0.9090 |
+| Federated Learning (Best) | 0.8036 |
 
 ---
 
