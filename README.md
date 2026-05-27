@@ -111,7 +111,7 @@ The project uses abdominal CT image slices for multi-organ segmentation.
 A centralized Attention U-Net baseline was trained using combined client datasets.
 
 ### Results
-- Mean Dice Score: **0.9069**
+- Mean Dice Score: **0.9044**
 
 ---
 
@@ -156,8 +156,8 @@ FedGDA was introduced to improve federated segmentation performance through serv
 Federated client loss decreased gradually across communication rounds, indicating stable optimization.
 
 ### Dice Score Across Rounds
-- Best Federated Dice Score: **0.851**
-- Centralized Dice Score: **0.909**
+- Best Federated Dice Score: **0.8036**
+- Centralized Dice Score: **0.9090**
 
 The federated model achieved strong segmentation performance despite non-IID client distributions.
 
